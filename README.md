@@ -96,23 +96,7 @@ This repository contains well-organized implementations, examples, and notes cov
 * Develop end-to-end Machine Learning workflows.
 * Create a strong foundation for Deep Learning and AI.
 
-## 📂 Repository Structure
 
-```text
-Machine-Learning/
-│
-├── Data Preprocessing/
-├── EDA/
-├── Feature Engineering/
-├── Regression/
-├── Classification/
-├── Clustering/
-├── Dimensionality Reduction/
-├── Model Evaluation/
-├── Model Optimization/
-├── Datasets/
-└── Notebooks/
-```
 
 ## 🤝 Contributing
 
